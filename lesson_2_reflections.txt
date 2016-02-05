@@ -6,3 +6,9 @@
  repository? What value do you think it offers?
  
  Staging area has files that are ready to be committed.
+ 
+3. How can you use the staging area to make sure you have one commit per 
+ logical change?
+ 
+ only files related to one logical change will be added to staging area. This
+ way commits can contain different logical changes.
