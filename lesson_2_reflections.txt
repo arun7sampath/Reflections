@@ -1,0 +1,8 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+ A new repository is created after you run initialize and only then you can 
+ commit files to it.
+
+2. How is the staging area different from the working directory and the 
+ repository? What value do you think it offers?
+ 
+ Staging area has files that are ready to be committed.
