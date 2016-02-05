@@ -12,3 +12,9 @@
  
  only files related to one logical change will be added to staging area. This
  way commits can contain different logical changes.
+ 
+4. What are some situations when branches would be helpful in keeping your 
+ history organized? How would branches help?
+ 
+ When you want to have two different versions of features for your project.
+ 
