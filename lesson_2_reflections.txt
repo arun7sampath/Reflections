@@ -27,4 +27,9 @@
  
  Different features are merged after individual development. Representing as
  a diagram is easy to visualize the branches.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing 
+ merges manually?
  
+ When there are not conflicts automatic merging is quick and effective. When
+ there could be conflicts automatic merging would be flawed.
