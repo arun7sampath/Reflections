@@ -21,3 +21,10 @@
 5. How do the diagrams help you visualize the branch structure?
  Helps me understand at which commit branching is done and where each 
  branch heads currently lie.
+
+6. What is the result of merging two branches together? Why do we represent 
+ it in the diagram the way we do?
+ 
+ Different features are merged after individual development. Representing as
+ a diagram is easy to visualize the branches.
+ 
