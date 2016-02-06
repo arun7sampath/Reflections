@@ -18,3 +18,6 @@
  
  When you want to have two different versions of features for your project.
  
+5. How do the diagrams help you visualize the branch structure?
+ Helps me understand at which commit branching is done and where each 
+ branch heads currently lie.
