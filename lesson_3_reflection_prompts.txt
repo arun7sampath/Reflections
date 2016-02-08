@@ -10,4 +10,10 @@
 3. Describe the differences between forks, clones, and branches. When would 
  you use one instead of another?
  I understand the differences. I'll save time by not writing an explanation.
+
+4. What is the benefit of having a copy of the last known state of the remote 
+ stored locally?
+ You don't need internet connection to continue work when you a copy stored 
+ locally. You can then merge your changes later.
+ 
  
