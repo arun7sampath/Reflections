@@ -19,5 +19,8 @@
 5. How would you collaborate without using Git or GitHub? What would be easier,
   and what would be harder?
   Share code via some online platform like Dropbox. 
- 
- 
+
+6. When would you want to make changes in a separate branch rather than 
+ directly in master? What benefits does each approach have?
+ when working on a different feature which is like an offshoot of the 
+ current one.
