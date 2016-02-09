@@ -16,4 +16,8 @@
  You don't need internet connection to continue work when you a copy stored 
  locally. You can then merge your changes later.
  
+5. How would you collaborate without using Git or GitHub? What would be easier,
+  and what would be harder?
+  Share code via some online platform like Dropbox. 
+ 
  
